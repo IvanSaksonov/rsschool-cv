@@ -1,1 +1,1 @@
- **GitHub:** [IvanSaksonov](https://IvanSaksonov.github.io/rsschool-cv/cv)
+ **GitHub:** [IvanSaksonov](https://IvanSaksonov.github.io/rsschool-cv/)
